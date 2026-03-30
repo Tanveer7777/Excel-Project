@@ -1,10 +1,10 @@
-Blinkit Sales Performance Analysis Dashboard
+Sales Performance Analysis Dashboard
 
 ![Dashboard](https://github.com/Tanveer7777/Excel-Project/blob/7a1a29150274afc8ab3bdcdbd54eb4a59864043f/Sales%20Performance%20of%20different%20factors/Screenshot%202026-03-30%20230943.png)
 
 ➠Project Overview
 
-This project analyzes Blinkit sales performance across multiple business factors such as:
+This project analyzes sales performance across multiple business factors such as:
 Fat Content
 Outlet Size
 Outlet Location
