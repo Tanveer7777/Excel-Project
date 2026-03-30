@@ -53,3 +53,5 @@ Pivot Tables
 Pivot Charts
 Slicers
 Data Cleaning
+
+![image](Sales Performance of different factors/Screenshot 2026-03-30 230943.png)
