@@ -54,4 +54,4 @@ Pivot Charts
 Slicers
 Data Cleaning
 
-![Dashboard](Sales Performance of different factors/Screenshot 2026-03-30 230943.png)
+![Dashboard](https://github.com/Tanveer7777/Excel-Project/blob/7a1a29150274afc8ab3bdcdbd54eb4a59864043f/Sales%20Performance%20of%20different%20factors/Screenshot%202026-03-30%20230943.png)
